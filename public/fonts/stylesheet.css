@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Aquire';
+    src: url('AquireBold.woff2') format('woff2'),
+        url('AquireBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Thunder';
+    src: url('Thunder-BoldLC.woff2') format('woff2'),
+        url('Thunder-BoldLC.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Thunder';
+    src: url('Thunder-LC.woff2') format('woff2'),
+        url('Thunder-LC.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Thunder';
+    src: url('Thunder-ThinLC.woff2') format('woff2'),
+        url('Thunder-ThinLC.woff') format('woff')
+    font-weight: thin;
+    font-style: normal;

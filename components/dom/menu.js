@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const Menu = (props) => {
   return(
-    <nav className="fixed bg-white top-0 left-0 h-full w-full z-20">
+    <nav className="fixed bg-black top-0 left-0 h-full w-full z-20">
       <div className="flex justify-end">
         <button
           className="absolute leading-4 m-8 pt-2"

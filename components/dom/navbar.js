@@ -23,7 +23,7 @@ const Navbar = () => {
 
       <button
         onClick={handleMenu}
-        className="text-xl leading-5">
+        className="text-xl font-aquire leading-5">
         -ME<br/>NU-
       </button>
       {menu && <Menu handleMenu={handleMenu}/>}
