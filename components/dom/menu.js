@@ -16,7 +16,7 @@ const Menu = (props) => {
         <li onClick={props.handleMenu}><Link href="#"><a>STORE</a></Link></li>
         <li onClick={props.handleMenu}><Link href="#"><a>LICENSES</a></Link></li>
         <li onClick={props.handleMenu}><Link href="#"><a>ABOUT</a></Link></li>
-        <li onClick={props.handleMenu}><Link href="#"><a>CONTACT</a></Link></li>
+        <li onClick={props.handleMenu}><Link href="/contact"><a>CONTACT</a></Link></li>
       </ul>
       <div className="flex justify-center absolute bottom-0 left-0 h-20 w-full">
         <div className="flex justify-between w-1/2">

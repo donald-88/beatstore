@@ -13,4 +13,12 @@
   li{
     @apply text-7xl font-bold
   }
+
+  h1{
+    @apply font-bold
+  }
+
+  p{
+    @apply leading-4
+  }
 }
